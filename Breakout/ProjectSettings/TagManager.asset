@@ -9,6 +9,7 @@ TagManager:
   - rightScore
   - leftDouble
   - rightDouble
+  - Block
   layers:
   - Default
   - TransparentFX
