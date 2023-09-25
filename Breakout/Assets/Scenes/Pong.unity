@@ -5734,7 +5734,7 @@ GameObject:
   - component: {fileID: 1663889425}
   - component: {fileID: 1663889424}
   m_Layer: 0
-  m_Name: resetBall
+  m_Name: behind paddle
   m_TagString: rightScore
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
