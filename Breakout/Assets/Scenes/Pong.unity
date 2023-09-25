@@ -1770,6 +1770,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube (13)
@@ -1941,6 +1945,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube (87)
@@ -2778,6 +2786,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube (58)
@@ -4529,6 +4541,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube (102)
@@ -4704,6 +4720,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube (26)
@@ -5837,7 +5857,7 @@ PrefabInstance:
     - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9b67f9d2d3333604dadaa402fa678280, type: 2}
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube (51)
@@ -6636,6 +6656,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube (37)
@@ -7466,6 +7490,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5631105282865476278, guid: d842ac306d189a443a455151c86b1b05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25a07a2c0ec174a4197d6d0fba2553e3, type: 2}
     - target: {fileID: 5961323561581944825, guid: d842ac306d189a443a455151c86b1b05, type: 3}
       propertyPath: m_Name
       value: Cube
